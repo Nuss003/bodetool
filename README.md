@@ -1,7 +1,7 @@
 BodeTool
 ========
 
-BodeTool è un programma open source per tracciare grafici di Bode
+BodeTool è un programma open source (scritto in C#) per tracciare grafici di Bode.
 
 ========
 
